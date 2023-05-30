@@ -47,3 +47,4 @@ bsname = input("Name -->")
 buisness1 = bsname
 
 print("ok. you now own a", buisness1type, "named", buisness1)
+print("you will need some product go to the market on the laptop")
